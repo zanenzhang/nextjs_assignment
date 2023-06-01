@@ -4,12 +4,13 @@
 
 In order to setup your environment:
 
-1. install `node` from [https://nodejs.org/en/download](https://nodejs.org/en/download)
+1. install `node` from [https://nodejs.org/en/download](NodeJS)
 1. run `npm i`
 
 ### Tech Stack
 
-- [https://nextjs.org/docs](https://nextjs.org/docs)
+- [https://nextjs.org/docs](NextJS)
+- [https://mui.com/material-ui/getting-started/overview/](Material UI)
 
 ### Run the App
 
