@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { server } from "./config/server";
 
 export default function Home() {
   return (
@@ -14,3 +15,4 @@ export default function Home() {
     </main>
   );
 }
+

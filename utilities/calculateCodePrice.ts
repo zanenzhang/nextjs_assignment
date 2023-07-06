@@ -1,5 +1,5 @@
 type CalculateCodePriceProps = {
-  code: Code;
+  code: Code ;
   modifiers: Modifier[];
 };
 

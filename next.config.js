@@ -1,4 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {reactDevOverlay: false}
 
 module.exports = nextConfig
